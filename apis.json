@@ -1,0 +1,111 @@
+{
+    "name": "TokBox",
+    "description": "TokBox???s WebRTC platform, OpenTok, makes it possible to add live video, voice and messaging to websites, iOS, and Android apps. 30-day free trial.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/260-tokbox.jpg",
+    "tags": [
+        "chat",
+        "chats",
+        "embeds",
+        "have api",
+        "networks",
+        "video",
+        "video chat",
+        "videos",
+        "webrtc"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tokbox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TokBox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/260-tokbox.jpg",
+            "humanURL": "http:\/\/tokbox.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tokbox-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tokbox-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "http:\/\/apis.io\/apisdef\/tokbox.json"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.tokbox.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.tokbox.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tokbox"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tokbox"
+        },
+        {
+            "type": "Email",
+            "url": "support@tokbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@tokbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@tokbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "unsubscribe@tokbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "bizdev@tokbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "dmca-notice@tokbox.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Tokbox"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/tokbox.com\/pricing"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/tokbox.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tokbox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/tokbox.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tokbox.com"
+        }
+    ]
+}
